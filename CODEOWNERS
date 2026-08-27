@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Olympe976
+/src/backend/database.py      @Olympe976
+/src/backend/routers/auth.py  @Olympe976
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Olympe976
